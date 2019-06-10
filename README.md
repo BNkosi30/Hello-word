@@ -1,2 +1,2 @@
 # Hello-word
-Testing
+Testing how to use GitHub and create object repository
